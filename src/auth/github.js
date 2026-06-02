@@ -1,1 +1,1 @@
-export const github_fine_grained_pat = "nothing";
+export const github_fine_grained_pat = "";
